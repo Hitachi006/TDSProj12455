@@ -1,4 +1,4 @@
-login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
 tarsius,tarsius/notmuch-transient,2024-08-05T16:06:30Z,2,2,Emacs Lisp,FALSE,FALSE,GNU General Public License v3.0
 tarsius,tarsius/tray,2024-08-11T00:30:12Z,3,3,Emacs Lisp,FALSE,FALSE,GNU General Public License v3.0
 tarsius,tarsius/llama,2024-08-10T21:22:27Z,2,2,Emacs Lisp,FALSE,FALSE,GNU General Public License v3.0
